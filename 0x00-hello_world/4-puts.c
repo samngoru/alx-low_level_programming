@@ -1,10 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - program printing a line with puts function
- * return: 0 (eureka!)
+ * main - main function
+ * Return: always 0 (success)
  */
-
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
